@@ -25,6 +25,8 @@ Train | 1341 |3875 |
 Test | 234 | 390 |
 Val | 8 | 8 | 
 
+![](/img/conf.png)
+
 **For the analysis of chest x-ray images, all chest radiographs were initially screened for quality control by removing all low quality or unreadable scans.** The diagnoses for the images were then graded by two expert physicians before being cleared for training the AI system. In order to account for any grading errors, the evaluation set was also checked by a third expert.
 
 
