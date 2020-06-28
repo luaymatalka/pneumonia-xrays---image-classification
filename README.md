@@ -6,7 +6,7 @@ Chest x-ray image analysis is the common medical imaging exam needed to assess d
 
 <pre>
 Contributors:
-<a href=https://github.com/luaymatalka/>Luya Matalka</a>
+<a href=https://github.com/luaymatalka/>Luay Matalka</a>
 <a href=https://github.com/Galdina>Maria Galdina</a>
 </pre>
  
