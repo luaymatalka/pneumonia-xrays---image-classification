@@ -49,6 +49,8 @@ ___ | Precision | **Recall** | F1 |
 1 | 1.00 | 0.38| 0.55 | 
 accuracy | - | - | 0.69 | 
 
+![](confusion_matrix.png)
+
 ### Conclusion
 
 In addition, when we deal with medical diagnosis, a false positive (i.e. prediciting illness when the patient is healthy) is less critical than a false negative (predicting healthiness when the patient is sick). The number of false negatives obtained with the CNN presented here is extremely low, which positions the machine developed here as a reliable ancillary tool for pneumonia detection.
