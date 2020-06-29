@@ -45,14 +45,14 @@ Val | 8 | 8 |
 
 ___ | Precision | **Recall** | F1 | 
 --- | :---: | :---: | :---: | 
-0 | 0.62 | 1.00 | 0.76 | 
-1 | 1.00 | 0.38| 0.55 | 
-accuracy | - | - | 0.69 | 
+0 | 0.89 | 1.00 | 0.94 | 
+1 | 1.00 | 0.88| 0.93 | 
+accuracy | - | - | 0.94 | 
 
 
 Confusion Matrix:
 
-![](images/confusion_matrix.png 'Confusion Matrix')
+![](images/confusion_matrix_vgg16.png 'Confusion Matrix')
 
 
 ### Conclusion
@@ -67,7 +67,7 @@ In addition, when we deal with medical diagnosis, a false positive (i.e. predici
 <pre>
 Items in Repository:
 - [/data] - folder
-- [/code]() - Jupyter Notebooks with all models
+- *.ipynb - Jupyter Notebooks with all models
 - [/images]() - all images
 - [/py]() - additional user function
 - [/presentation]() - pdf files of the final presentation
