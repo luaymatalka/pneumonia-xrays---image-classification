@@ -50,8 +50,7 @@ ___ | Precision | **Recall** | F1 |
 accuracy | - | - | 0.69 | 
 
 
-
-Confusion Matrix for our best model with a 100% recall/sensitivity: 
+Confusion Matrix:
 
 ![](images/confusion_matrix.png 'Confusion Matrix')
 
